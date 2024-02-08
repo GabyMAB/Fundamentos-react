@@ -1,0 +1,16 @@
+.texto{
+    text-align: center;
+}
+.container{
+    border: darkslategray;
+}
+.text-primary{
+    color: #822314;
+    
+}
+.text-info{
+    color: #ddf167;
+}
+.classColors{
+    color: indigo;
+}
